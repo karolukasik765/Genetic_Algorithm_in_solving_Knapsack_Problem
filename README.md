@@ -1,1 +1,1 @@
-# Genetic_Algorithm_in_solving_Knapsack_Problem
+# Genetic_Algorithm in solving Knapsack Problem
